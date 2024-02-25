@@ -4,8 +4,7 @@
 ------------------------------------
 
 ### 1. Fetch these sync tools ###
-	mkdir /home/maxim/foxsync
-        mkdir /home/maxim/foxbuild
+	mkdir /home/maxim/foxsync; mkdir /home/maxim/foxbuild
 	cd /home/maxim/foxsync
 	git clone https://gitlab.com/OrangeFox/sync.git # (or, using ssh, "git clone git@gitlab.com:OrangeFox/sync.git")
 
